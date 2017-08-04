@@ -94,7 +94,6 @@ public class App {
         //question96();
         //question100();
         question101();
-        if (Math.random() >-1)throw new Exception ("Try again");
     }
     
     static void question101() {
